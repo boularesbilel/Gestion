@@ -7,8 +7,6 @@
 			padding: 0.3em;
 			background: #ecc814;
 		}
-   
-   
  </style>
 </head>
 
